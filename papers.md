@@ -6,6 +6,10 @@ layout: page
 
 ## Peer-reviewed research
 
+**Dimanchev, E.**, Fleten, S-E., MacKenzie, D., and Korpås, M. 2023. [Accelerating electric vehicle charging investments: A real options approach to policy design](https://www.sciencedirect.com/science/article/pii/S0301421523002884)). *Energy Policy* 181. 
+
+  * Access: Open access at the link above
+
 **Dimanchev, E.** and C.R. Knittel. 2023. [Designing climate policy mixes: Analytical and energy system modeling approaches](https://www.sciencedirect.com/science/article/pii/S0140988323001950). *Energy Economics* 122. 
 
   * Access: Open access at the link above

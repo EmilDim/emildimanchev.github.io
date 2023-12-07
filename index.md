@@ -21,7 +21,7 @@ The second [publication](https://www.sciencedirect.com/science/article/pii/S0301
 
 ## Bio
 
-I am currently a PhD Candidate in electric power engineering at the Norwegian University of Science and Technology ([NTNU](https://www.ntnu.edu/iel/groups/emesp#/view/about)), a Research Affiliate at the MIT [Center for Energy and Environmental Policy Research](https://ceepr.mit.edu/people/dimanchev-emil/), and a Superforecaster at [Good Judgment](https://goodjudgment.com). 
+I am currently a PhD Candidate in electric power engineering at the Norwegian University of Science and Technology ([NTNU](https://www.ntnu.edu/employees/emil.dimanchev), a Research Affiliate at the MIT [Center for Energy and Environmental Policy Research](https://ceepr.mit.edu/people/dimanchev-emil/), and a Superforecaster at [Good Judgment](https://goodjudgment.com). 
 
 In previous roles, I was a Senior Research Associate at MIT CEEPR, and prior to that I worked as a Senior Carbon Market Analyst at Thomson Reuters Point Carbon.
 
